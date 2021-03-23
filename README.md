@@ -13,9 +13,6 @@ https://api.ipma.pt/
 ## Metro de Lisboa
 https://api.metrolisboa.pt/store/
 
-## Dados Gov
-https://dados.gov.pt/pt/apidoc/
-
 ## TransporLis
 https://www.transporlis.pt/Default.aspx?tabid=258&language=pt-PT
 
